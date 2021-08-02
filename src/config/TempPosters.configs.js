@@ -48,5 +48,5 @@ const TempPosters = [
        subtitle:"english",
      },
  ];
-  
- export default TempPosters;
+
+export default TempPosters;
