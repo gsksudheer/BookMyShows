@@ -94,7 +94,7 @@ const Navbar = () =>{
                 </div>
             </nav>
             <nav className="bg-gray-800">
-                <div className="sm:hidden md:hidden lg:block">
+                <div className="hidden  lg:block">
                     <Navlg2 />
                 </div>
             </nav>

@@ -109,4 +109,3 @@ export default function PaymentModel({isOpen, setIsOpen, price }) {
   )
 }
 
-nor

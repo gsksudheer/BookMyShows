@@ -29,10 +29,7 @@ function App() {
        <>
             <DefaultHOC path="/" exact component={HomePage} />   
             <MovieHOC path="/movie/:id" exact component={Movies} />
-            <DefaultHOC path="/plays/pl" exact component={Plays} /> 
-            
-
-            
+            <DefaultHOC path="/plays/pl" exact component={Plays} />      
        </>  
     )      
 };
