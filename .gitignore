@@ -18,11 +18,10 @@
 .env.test.local
 .env.production.local
 
-env
-.gitignore
-package-lock.json
-.github
-
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.env
+.gitignore
+package-lock.json
